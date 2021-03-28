@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# Instragram Video Downloader by Bar v0.1 , Thx Someone for Regex
+#!/usr/bin/python3
+# Instragram Video Downloader by Bar v0.2 , Thx Someone for Regex
 
 print("++++ Instagram Video Downloader by Bar. ++++")
 
